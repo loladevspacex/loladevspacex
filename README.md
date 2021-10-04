@@ -10,9 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loladevspacex&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lorrana-Js" height="57" width="57" src="https://cdn-icons-png.flaticon.com/512/2721/2721272.png">
-  <img align="center" alt="Lorrana-HTML" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1197/1197396.png">
-  <img align="center" alt="Lorrana-CSS" height="50" width="50" src="https://img-premium.flaticon.com/png/512/5205/premium/5205434.png?token=exp=1633287325~hmac=b3e2dbeb1e3b118eb364e12827c4a2ba">
+  <img align="center" alt="Lorrana-Js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919828.png">
+  <img align="center" alt="Lorrana-HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919827.png">
+  <img align="center" alt="Lorrana-CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
 </div>
   
    ##
